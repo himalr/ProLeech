@@ -1,4 +1,3 @@
 ProLeech
 ========
-Hello This is a test commit
-Commit 4
+This is the final demo commit
